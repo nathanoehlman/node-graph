@@ -2,13 +2,13 @@
 	"name": "node-graph",
 	"author": "David Coallier",
 	"email": "david.coallier@gmail.com",
-	"dependencies": [],
+	"dependencies": {},
 	"contributors": [],
 	"keywords": [
             "mathematics",
             "computer science",
             "graph theory",
-            "graph",
+            "graph"
 	],	
 	"mappings":{},
 	"overlay": {},
