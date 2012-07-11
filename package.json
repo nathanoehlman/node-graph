@@ -10,6 +10,7 @@
             "graph theory",
             "graph"
 	],	
+	"main": "graph.js",
 	"mappings":{},
 	"overlay": {},
 	"githubName": "node-graph",
