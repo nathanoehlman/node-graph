@@ -1,6 +1,6 @@
 var graph = require('./lib/graph'),
     edge = require('./lib/edge'),
-    vertex = require('./lib/vertex');\
+    vertex = require('./lib/vertex');
 
 module.exports = {
     Graph: graph.Graph,
